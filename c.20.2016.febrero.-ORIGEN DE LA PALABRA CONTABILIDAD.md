@@ -9,3 +9,7 @@ Definición según Wikipedia: Wikipedia define la contabilidad como una técnica
 Proceso contable según Wikipedia: Es un proceso que toma la información de una entidad, la expresa en términos cuantitativos, la clasifica y registra siguiendo ciertos procedimientos, y el resultado obtenido es analizado y utilizado por las partes interesadas.
 
 Verificación de conceptos: Si no se está conforme con la definición de Wikipedia, se pueden consultar distintos libros o bibliografías de contabilidad y las federaciones de contadores para obtener una comprensión más amplia y precisa del concepto de contabilidad.
+
+![image](https://github.com/rggcontable/ContableTip-2016-100/assets/170726515/2864a3f9-b95f-4a49-b9b3-48d0b4bca039)
+![image](https://github.com/rggcontable/ContableTip-2016-100/assets/170726515/c52284e5-7c6e-4e4f-b806-461308f6ad11)
+![image](https://github.com/rggcontable/ContableTip-2016-100/assets/170726515/626be882-3ace-4e36-8326-302a5016a10b)
