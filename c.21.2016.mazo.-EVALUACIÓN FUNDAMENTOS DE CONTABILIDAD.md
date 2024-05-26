@@ -1,24 +1,23 @@
 Evaluación Tema: Fundamentos de Contabilidad
 
 1. Introducción a la Evaluación
-
 Se realizará una evaluación sobre el tema de Fundamentos de Contabilidad.
 La evaluación está disponible en el blog y se resolverá en el canal.
 Consta de tres partes: completación, verdadero/falso y razonamiento.
-2. Parte de Completación
 
+2. Parte de Completación
 Pregunta 1: Se refiere a personas o empresas que tienen relación con una entidad pero no pertenecen a ella: usuarios externos.
 Pregunta 2: Expresa transacciones en términos cuantitativos y monetarios para proporcionar información útil a usuarios externos: contabilidad financiera.
 Pregunta 3: Objetivo del International Accounting Standards Board (IASB) es desarrollar normas contables globales: IASB.
 Pregunta 4: Las entidades deben registrar sus operaciones siguiendo la base de causación o devengo.
-3. Parte de Verdadero y Falso
 
+4. Parte de Verdadero y Falso
 Pregunta 1: Las grandes empresas no tienen obligación de rendir cuentas públicas y no publican estados financieros con propósito general: Falso.
 Pregunta 2: El principio de comprensibilidad se refiere a contabilizar transacciones de acuerdo con su esencia, no forma legal: Falso.
 Pregunta 3: Una partida se reconoce en los estados financieros cuando es probable que cualquier beneficio económico futuro asociado llegue a la entidad y tiene un costo medido con fiabilidad: Verdadero.
 Pregunta 4: La base de medición de los estados financieros es el costo de reposición: Falso.
-4. Parte de Razonamiento
 
+4. Parte de Razonamiento
 Planteamiento 1: Se violó el principio de registro a costo histórico o valor razonable al registrar el inmueble por un monto no sustentado adecuadamente. Debió registrarse por el valor razonable actual de 500,000 unidades monetarias según el peritaje.
 Planteamiento 2: Incluir activos del accionista como propios de la empresa viola el principio de entidad, ya que los activos deben estar a nombre de la entidad, no de los accionistas.
 Planteamiento 3: Un fenómeno meteorológico que afectó significativamente los activos y la operatividad de la empresa viola el principio de negocio en marcha.
